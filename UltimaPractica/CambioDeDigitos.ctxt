@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numero\ invertir
+comment0.target=java.lang.String\ resultado(int,\ int)
+comment1.params=num
+comment1.target=int\ contDig(int)
+numComments=2
